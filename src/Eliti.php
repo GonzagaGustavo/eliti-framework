@@ -2,13 +2,6 @@
 
 namespace epanel\Eliti;
 
-use Eliti_User;
-use Zend_Controller_Request_Abstract;
-use Zend_Session_Namespace;
-
-require 'vendor/autoload.php';
-
-
 class Eliti
 {
 
