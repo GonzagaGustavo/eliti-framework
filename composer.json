@@ -1,0 +1,28 @@
+{
+  "name": "epanel/eliti",
+  "description": "DB Framework for ZendFramework1 and PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lucas Pacheo Teixeira",
+      "email": "lucas@epanel.com.br"
+    },
+    {
+      "name": "Gustavo Gonzaga",
+      "email": "gustavogonzaga.gg243@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "\\epanel\\Eliti\\": "src/"
+    }
+  },
+  "include-path": [
+    "src/"
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "zendframework/zendframework1": "^1.12"
+  }
+}
