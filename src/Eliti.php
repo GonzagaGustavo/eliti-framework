@@ -1,7 +1,5 @@
 <?php
 
-namespace epanel\Eliti;
-
 class Eliti
 {
 

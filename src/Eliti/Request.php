@@ -1,6 +1,5 @@
 <?php
 
-require '../Eliti.php';
 class Eliti_Request implements Eliti_Request_Interface
 {
 
