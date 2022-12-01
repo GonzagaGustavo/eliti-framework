@@ -1,7 +1,5 @@
 <?php
 
-use epanel\Eliti\Eliti;
-
 abstract class Eliti_Controller_Rest_Crud extends Eliti_Controller_Rest
 {
 

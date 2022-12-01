@@ -1,7 +1,5 @@
 <?php
 
-use epanel\Eliti\Eliti;
-
 abstract class Eliti_Controller_Abstract extends Zend_Controller_Action
 {
 

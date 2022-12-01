@@ -1,7 +1,5 @@
 <?php
 
-use epanel\Eliti\Eliti;
-
 class Eliti_Service
 {
 
